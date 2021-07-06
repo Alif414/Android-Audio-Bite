@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToggleMediaPlayer</string>
+    <string name="sneeze">Sneeze</string>
+    <string name="blow">Blow Nose</string>
+</resources>
